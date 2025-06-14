@@ -1,0 +1,31 @@
+{
+  "short_name": "WayDukaan",
+  "name": "WayDukaan - Your one-stop shop",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "waydukaan-logo192.png",
+      "type": "waydukaan/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "waydukaan-logo512.png",
+      "type": "waydukaan/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "categories": ["shopping", "e-commerce"],
+  "description": "WayDukaan is your one-stop online shopping destination for all your needs.",
+  "dir": "ltr",
+  "lang": "en",
+  "prefer_related_applications": false
+} 
